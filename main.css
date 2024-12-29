@@ -174,17 +174,16 @@ textarea{
     }
 
     .description{
-        height: 200px;
+        height: 250px;
     }
 
     .movie-name{
-        font-size: medium;
-        letter-spacing: 0px;
+        font-size: large;
     }
 
     .buy-btn{
-        width: 70px;
-        height: 30px;
+        width: 80px;
+        height: 40px;
         font-size: medium;
     }
 }
