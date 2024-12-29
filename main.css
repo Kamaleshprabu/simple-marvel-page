@@ -169,20 +169,25 @@ textarea{
         margin-left: 0;
     }
 
+    .movies-container{
+        padding: 10px;
+        gap: 10px;
+    }
+
     .movie-holder{
-        flex: 1 0 150px;
+        flex: 1 0 100px;
     }
 
     .description{
-        height: 270px;
+        height: 200px;
     }
 
     .movie-name{
-        font-size: larger;
+        font-size: medium;
     }
 
     .buy-btn{
-        width: 80px;
+        width: 70px;
         height: 30px;
         font-size: medium;
     }
